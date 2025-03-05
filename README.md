@@ -1,1 +1,3 @@
-# LMYSGI_Examen_Segunda_Evaluacion_DGA
+# LMYSGI Examen Segunda Evaluacion DGA
+
+David González Alcañiz
